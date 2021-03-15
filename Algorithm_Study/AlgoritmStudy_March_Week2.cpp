@@ -11,17 +11,17 @@ using namespace std;
 
 int main()
 {
-#pragma region 1099¹ø
+#pragma region Problem 1099
 #ifdef ALGORITHM_1099
 #endif
 #pragma endregion
 
-#pragma region 1095¹ø
+#pragma region Problem 1095
 #ifdef ALGORITHM_1095
 #endif
 #pragma endregion
 
-#pragma region 1060¹ø
+#pragma region Problem 1060
 #ifdef ALGORITHM_1060
 #endif
 #pragma endregion
